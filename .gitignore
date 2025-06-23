@@ -1,0 +1,26 @@
+# Ignore all Pipenv environment and dependency files
+Pipfile
+Pipfile.lock
+
+# (Optional) If you ever use a local .venv directory, ignore it too:
+.venv/
+
+# (Optional) Ignore Python bytecode, cache, and backups
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.bak
+*.swp
+
+# (Optional) VSCode and editor configs
+.vscode/
+.idea/
+*.code-workspace
+
+# (Optional) macOS and Linux system files
+.DS_Store
+Thumbs.db
+
+.env
+.db
