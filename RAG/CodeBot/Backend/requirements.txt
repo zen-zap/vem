@@ -1,0 +1,11 @@
+chromadb
+langchain
+langsmith
+langchain-chroma
+langchain-core
+langchain-openai
+langchain-community
+requests
+fastapi
+uvicorn
+sqlalchemy
